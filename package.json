@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.16",
+    "querystring": "^0.2.1"
   }
 }
